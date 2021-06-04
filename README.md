@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=luoyelusheng.luoyelusheng)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luoyelusheng&show_icons=true&theme=radical&count_private=true)
